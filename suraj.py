@@ -1,1 +1,2 @@
-hey there this is testing for .ignore file in git
+hey there this is testing
+okk tested
